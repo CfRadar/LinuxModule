@@ -1,0 +1,8 @@
+#1700000100
+pwd
+#1700000120
+ls -la
+#1700000145
+type compgen
+#1700000180
+echo "ready" && true

@@ -1,1 +1,5 @@
-context
+context/
+_authoring/
+.student
+.progress/
+*.bak-*
