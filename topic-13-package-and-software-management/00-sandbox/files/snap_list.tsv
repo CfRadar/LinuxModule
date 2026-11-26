@@ -1,0 +1,5 @@
+NAME	VERSION	REV	TRACKING	PUBLISHER	NOTES
+core22	20240111	1122	latest/stable	canonical	base
+kubectl	1.29.2	3201	1.29/stable	canonical	classic
+dev-inspector	0.4.0	19	latest/edge	devteam	classic
+htop	3.3.0	4102	latest/stable	maxiberta	-

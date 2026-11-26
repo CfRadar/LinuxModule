@@ -1,0 +1,10 @@
+2026-03-01T00:00:01Z station=north-buoy-01 temp_c=12.4 status=OK payload=00001
+2026-03-01T00:00:02Z station=north-buoy-01 temp_c=12.4 status=OK payload=00002
+2026-03-01T00:00:03Z station=north-buoy-01 temp_c=12.4 status=OK payload=00003
+2026-03-01T00:00:04Z station=north-buoy-01 temp_c=12.4 status=OK payload=00004
+2026-03-01T00:00:05Z station=north-buoy-01 temp_c=12.5 status=OK payload=00005
+2026-03-01T00:00:06Z station=north-buoy-01 temp_c=12.5 status=OK payload=00006
+2026-03-01T00:00:07Z station=north-buoy-01 temp_c=12.5 status=OK payload=00007
+2026-03-01T00:00:08Z station=north-buoy-01 temp_c=12.5 status=OK payload=00008
+2026-03-01T00:00:09Z station=north-buoy-01 temp_c=12.4 status=OK payload=00009
+2026-03-01T00:00:10Z station=north-buoy-01 temp_c=12.4 status=OK payload=00010

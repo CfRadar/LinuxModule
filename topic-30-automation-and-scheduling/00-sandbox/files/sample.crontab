@@ -1,0 +1,6 @@
+# Sample Staging Crontab (do not install to system)
+SHELL=/bin/bash
+*/5 * * * * ./scripts/poll_queue.sh
+0 2 * * * /usr/local/bin/backup.sh /srv/data /var/backups/nightly_$(date +%Y%m%d).tar.gz
+15 4 1 * 1 /usr/local/bin/weekly_or_monthly.sh
+@daily /usr/local/bin/cleanup.sh >> /var/log/cleanup.log 2>&1

@@ -1,0 +1,4 @@
+item-01,Alpha Hub,west,
+item-02,Beta Node,east,active
+item-03,Gamma Relay,north,standby
+item-04,Delta Vault,,retired

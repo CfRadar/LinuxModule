@@ -1,0 +1,4 @@
+node-01 OK 12
+node-03 ERR 210
+node-04 OK 19
+node-02 WARN 75

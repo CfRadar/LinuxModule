@@ -1,0 +1,5 @@
+svc_id	name	port	status
+S01	auth-api	8081	active
+S02	billing-api	8082	active
+S03	legacy-sync	8083	deprecated
+S04	metrics-ingestor	8084	active

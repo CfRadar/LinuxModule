@@ -1,0 +1,5 @@
+id	role	endpoint	status
+101	admin	/api/v1/users	200
+102	guest	/api/v2/health	200
+103	service	/api/v1/tokens	403
+104	auditor	/internal/metrics	500

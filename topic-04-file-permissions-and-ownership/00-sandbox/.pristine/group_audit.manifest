@@ -1,0 +1,5 @@
+PATH	OWNER	GROUP	REQUIRED_MODE
+mixed_tree/bin/healthcheck.sh	appuser	adm	0750
+mixed_tree/conf/settings.ini	appuser	adm	0640
+mixed_tree/.hidden_env	appuser	appuser	0600
+mixed_tree/dropbox	appuser	adm	3770

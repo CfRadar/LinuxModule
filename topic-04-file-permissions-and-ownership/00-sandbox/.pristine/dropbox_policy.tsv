@@ -1,0 +1,5 @@
+TIER	TARGET_MODE	NOTES
+private	0700	Owner read/write/traverse only
+team_share	2770	SGID group inheritance for team collaboration
+dropbox	3770	SGID + sticky bit shared dropbox
+public_drop	1777	World-writable sticky dropbox

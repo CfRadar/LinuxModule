@@ -1,0 +1,8 @@
+T12-M02: TAR Archiving & Path Normalization
+Status: LOCKED
+Environment requirement: ENV=any
+
+To unlock this unit:
+  1. Ensure you have run 'bash setup.sh' in the course root.
+  2. Run: bash unlock.sh
+  3. Enter the unlock code printed by the previous module (or starter code for T01-M01).

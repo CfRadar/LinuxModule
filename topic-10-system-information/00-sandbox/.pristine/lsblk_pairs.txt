@@ -1,0 +1,5 @@
+NAME="sda" SIZE="120G" TYPE="disk" MOUNTPOINT="" FSTYPE=""
+NAME="sda1" SIZE="100G" TYPE="part" MOUNTPOINT="/" FSTYPE="ext4"
+NAME="sdb" SIZE="200G" TYPE="disk" MOUNTPOINT="" FSTYPE=""
+NAME="sdb1" SIZE="200G" TYPE="part" MOUNTPOINT="/var/lib/data" FSTYPE="xfs"
+NAME="loop0" SIZE="64M" TYPE="loop" MOUNTPOINT="/snap/core20/1" FSTYPE="squashfs"

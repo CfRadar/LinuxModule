@@ -1,0 +1,2 @@
+Note with spaces in filename.
+Contains literal token [v1.2*] and whole word ERR vs ERROR.

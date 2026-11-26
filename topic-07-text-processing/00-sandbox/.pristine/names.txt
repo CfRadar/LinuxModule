@@ -1,0 +1,7 @@
+Alpha
+bravo
+Charlie
+10
+2
+100
+20

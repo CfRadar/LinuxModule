@@ -1,0 +1,29 @@
+MIT License (with Author Usage & Distribution Restrictions)
+
+Copyright (c) 2026 CfRadar (https://github.com/CfRadar/LinuxModule)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software for personal learning and local execution, subject to the
+following conditions and additional author restrictions:
+
+1. Do Not Copy: Do not copy, clone-and-reupload, or mirror the course labs,
+   modules, tests, or guide contents for redistribution.
+2. Advertising Permitted: You may advertise, reference, or share links to the
+   official repository (https://github.com/CfRadar/LinuxModule) with clear
+   attribution to CfRadar.
+3. No Sharing or Modification Without Permission: Do not share modified or
+   unmodified copies of this repository, PDF guide, or course content, and do
+   not modify or create derivative distributions without explicit written
+   permission from CfRadar.
+
+The above copyright notice, restrictions, and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

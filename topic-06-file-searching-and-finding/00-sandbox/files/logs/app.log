@@ -1,0 +1,4 @@
+[2026-04-01 08:10:00] INFO service=gateway status=ready ip=10.20.1.5
+[2026-04-01 08:10:05] WARN service=worker-01 msg="retry scheduled"
+[2026-04-01 08:10:12] ERROR service=worker-01 ip=192.168.10.42 code=E502
+[2026-04-01 08:10:20] ERROR service=auth-02 ip=10.20.1.99 code=E401

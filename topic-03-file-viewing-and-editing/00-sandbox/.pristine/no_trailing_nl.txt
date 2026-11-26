@@ -1,0 +1,4 @@
+record-01 alpha
+record-02 beta
+record-03 gamma
+record-04 delta_no_eol

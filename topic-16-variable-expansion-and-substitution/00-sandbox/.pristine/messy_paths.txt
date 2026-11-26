@@ -1,0 +1,6 @@
+/srv/builds/release/v1.2.3/app.tar.gz
+/var/log/My Service/access.log
+/home/dev/.bashrc
+/home/dev/.env.local
+/opt/tools/README
+/tmp//double//slash/file.bak

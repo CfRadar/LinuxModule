@@ -1,0 +1,4 @@
+deb [signed-by=/usr/share/keyrings/ubuntu-archive-keyring.gpg] https://archive.ubuntu.com/ubuntu jammy main restricted
+deb https://security.ubuntu.com/ubuntu jammy-security main universe
+# deb-src https://archive.ubuntu.com/ubuntu jammy main
+deb http://legacy.internal.invalid/debian stable main

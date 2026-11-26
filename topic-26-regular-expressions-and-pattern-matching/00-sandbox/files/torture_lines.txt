@@ -1,0 +1,12 @@
+2026-05-01T10:00:01Z INFO host=10.20.30.40 msg="ok"
+2026-05-01T10:00:02Z WARN host=999.999.1.1 msg="invalid-ip"
+2026-05-01T10:00:03Z ERR  host=192.168.01.5 msg="leading-zero"
+a+b=c
+aaaab
+cat
+catalog
+scatter
+repeat repeat token
+v1.2.3-rc1
+v1.2.3
+# literal * and ? and . characters: a*b a?b a.b

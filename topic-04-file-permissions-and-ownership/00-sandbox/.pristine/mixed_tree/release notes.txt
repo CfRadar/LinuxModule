@@ -1,0 +1,2 @@
+Release Notes v1.0
+- Keep plain text files non-executable.

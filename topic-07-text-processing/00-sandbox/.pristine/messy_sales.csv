@@ -1,0 +1,7 @@
+region,item,qty,unit_price
+north,widget-a,12,4.50
+south,widget-b,5,12.00
+north,widget-c,2,19.75
+east,widget-a,20,4.50
+south,widget-a,7,4.50
+north,widget-a,3,4.50

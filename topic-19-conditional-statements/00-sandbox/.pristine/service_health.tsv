@@ -1,0 +1,7 @@
+SERVICE	STATUS	LATENCY_MS	EXIT_CODE
+ingest-api	up	42	0
+auth-proxy	up	385	0
+billing-worker	down	0	1
+search-index	up	612	0
+cache-edge	up	199	0
+report-gen	down	1250	137

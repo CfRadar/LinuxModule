@@ -1,0 +1,3 @@
+Release v2.4.0
+- Improved archive path normalization
+- Fixed space-handling in backup scripts

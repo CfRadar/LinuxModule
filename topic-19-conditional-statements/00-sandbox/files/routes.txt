@@ -1,0 +1,8 @@
+start
+stop
+status
+deploy-prod
+archive.tar.gz
+notes.txt
+v1.2.0-rc1
+v1.2.0

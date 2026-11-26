@@ -1,0 +1,5 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+alice:x:1001:1001:Alice Vance:/home/alice:/bin/bash
+bob:x:1002:1002:Bob Mercer:/home/bob:/bin/zsh
+svc-ingest:x:998:998:Ingest Service:/var/lib/ingest:/bin/false

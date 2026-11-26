@@ -1,0 +1,6 @@
+now + 15 minutes
+now + 2 hours
+14:30 2026-12-01
+teatime
+noon
+midnight

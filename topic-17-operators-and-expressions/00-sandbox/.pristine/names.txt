@@ -1,0 +1,6 @@
+alpha-01
+beta-99
+hello world
+
+prod_v2.4.1
+invalid!name

@@ -1,0 +1,7 @@
+$TTL 300
+@       IN  SOA ns1.sandbox.local. admin.sandbox.local. ( 2026010101 3600 600 86400 300 )
+@       IN  NS  ns1.sandbox.local.
+api     IN  A   127.0.0.10
+api     IN  AAAA ::1
+@       IN  MX  10 mail.sandbox.local.
+@       IN  TXT "v=spf1 -all"

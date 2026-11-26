@@ -1,0 +1,4 @@
+ID	SERVICE	COUNT	LATENCY
+M01	ingest	120	12.50
+M02	router	45	3.25
+M03	archive	9	88.10

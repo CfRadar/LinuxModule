@@ -1,0 +1,6 @@
+-v
+--output=report final.txt
+--
+-dash-file
+hello world
+""

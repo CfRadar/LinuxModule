@@ -1,0 +1,3 @@
+service: sandbox-demo
+port: 8080
+mode: archive

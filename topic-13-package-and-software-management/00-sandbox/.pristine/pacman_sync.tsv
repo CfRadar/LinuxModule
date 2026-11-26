@@ -1,0 +1,6 @@
+PKG	VER	REASON	ORIGIN	REQ_BY
+base	3-2	explicit	sync	none
+libcurl	8.6.0-1	dep	sync	curl
+curl	8.6.0-1	explicit	sync	none
+old-lib	1.2-1	dep	sync	none
+custom-cli	0.9.1-1	explicit	foreign	none

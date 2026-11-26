@@ -1,0 +1,5 @@
+SVC	STATUS	LATENCY
+api	OK	12
+auth	ERR	450
+cache	WARN	95
+db	OK	18

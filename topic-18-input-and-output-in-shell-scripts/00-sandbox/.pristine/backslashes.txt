@@ -1,0 +1,3 @@
+  C:\Logs\northwind\agent.log  
+\\fileserver\builds\release_01
+  indented\twith\nliteral\escapes  

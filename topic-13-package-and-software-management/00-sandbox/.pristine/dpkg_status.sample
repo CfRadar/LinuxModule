@@ -1,0 +1,18 @@
+Package: core-relay
+Status: install ok installed
+Priority: optional
+Section: net
+Maintainer: Platform Team <ops@example.invalid>
+Architecture: amd64
+Version: 2.4.1-1ubuntu2
+Depends: libc6 (>= 2.34), libssl3 (>= 3.0.0)
+Description: Lightweight telemetry relay daemon
+
+Package: legacy-agent
+Status: deinstall ok config-files
+Priority: optional
+Section: admin
+Maintainer: Platform Team <ops@example.invalid>
+Architecture: amd64
+Version: 1.0.8-4
+Description: Deprecated monitoring agent
