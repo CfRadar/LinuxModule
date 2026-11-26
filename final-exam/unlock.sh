@@ -15,4 +15,4 @@ fi
 source "$ROOT_DIR/.engine/lib/common.sh"
 source "$ROOT_DIR/.engine/lib/ledger.sh"
 source "$ROOT_DIR/.engine/lib/unlock-lib.sh"
-unlock_module "$MODULE_DIR" "FINAL-EXAM" "any" "a088217c0073b486" "e65009021c7098c8e8783eb6e77df2e787e4f491eaa6cb5c4e38abaf5af6bf48" "$@"
+unlock_module "$MODULE_DIR" "FINAL-EXAM" "any" "62df59bc91d7f320" "622deea56814778d95a27915f5cb84ef09ae309e0c78333c31237ac63e7283ab" "$@"

@@ -15,4 +15,4 @@ fi
 source "$ROOT_DIR/.engine/lib/common.sh"
 source "$ROOT_DIR/.engine/lib/ledger.sh"
 source "$ROOT_DIR/.engine/lib/unlock-lib.sh"
-unlock_module "$MODULE_DIR" "T11-M08" "linux" "b2bfbdf928aed68b" "d806f33e469300e03bf0c64736b5cf09aa08aad2fadb747581f78989d9e5424c" "$@"
+unlock_module "$MODULE_DIR" "T11-M08" "linux" "7d6ffce8d53173c8" "e7bd0897986fd00fcb69328ab1cf778b1a02d726cbfe268c1a7e5930b2b2e9b7" "$@"
